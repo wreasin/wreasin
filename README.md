@@ -1,6 +1,6 @@
 ## Hi There 👋
 
-My name is __[Wahidur Rahman Easin](https://www.linkedin.com/in/wahidur-r-easin/)__, I'm a __VLSI Enthusiast__.  I'm very much passionate about VLSI Design.
+My name is __[Wahidur Rahman Easin](https://www.linkedin.com/in/wahidur-r-easin/)__, I'm a __VLSI Enthusiast__. I'm very much passionate about VLSI Design and also much interested on EDA tools.
 
 __[Easin](https://www.linkedin.com/in/wahidur-r-easin/)__ is a Student in Electrical and Electronics Engineering with focus on _Very Large-Scale Integration (VLSI) Design, SoC Design, IC Physical Design, Industrial Internet of Things (IIoT), Embedded System, AI and Robotics_. I like to do Research. Easin prefers to work in research and development by prototyping innovative ideas for future hardware and software products. Easin has worked as Robotics & Embedded System Engineer, Data Analytics Consulting and also an SEO Expert for various companies. Easin is a Student at Bangladesh University of Business and Technology (BUBT).
 
