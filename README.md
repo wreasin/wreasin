@@ -13,7 +13,7 @@ __[Easin](https://www.linkedin.com/in/wahidur-r-easin/)__ is a Student in Electr
 - Layout Design with Cadence Virtuoso.
 - PCB Design with Altium Designer, Proteus, EasyEDA and Eagle.
 - Microcontrollers such as Atmega32, Atmega8, Atmega328, 8051, Arduino, Raspberry Pi, etc.
-- Programming in Python, C, Verilog, Html, Css, TCL, Matlab and PLC Programming.
+- Programming in Python, Verilog, RTL, TCL, C, Matlab, PLC Programming, Html and Css.
 - MS Word, PowerPoint, Excel (highly proficient), Windows, Linux, Unix and Git.
 
 On the other side, Liked to introduce myself as a problem solver and technology geek. Optimistic about new opportunities to work. I love to work independently and also with a team. I'm thirsty to learn new things.
