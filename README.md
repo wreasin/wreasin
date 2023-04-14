@@ -5,7 +5,7 @@ My name is __[Wahidur Rahman Easin](https://www.linkedin.com/in/wahidur-r-easin/
 __[Easin](https://www.linkedin.com/in/wahidur-r-easin/)__ is a Student in Electrical and Electronics Engineering with focus on Very Large-Scale Integration (VLSI) Design, SoC Design, IC Physical Design, Layout Design, Industrial Internet of Things (IIoT), AI, Renewable Energy and Robotics. I like to do Research. Easin prefers to work in research and development by prototyping innovative ideas for future hardware and software products. Easin has worked as Robotics & Embedded System Engineer, Data Analytics Consulting and also an SEO Expert for various companies. Easin is a Student at Bangladesh University of Business and Technology (BUBT).
 
 ### The tools i have experience with :  
-- Cadence (Virtuoso, SoC Encounter, Spectre), Xilinx, LTSPICE, Xshem, Yosys, Ngspice, Sky130nm, MATLAB Simulink, Altium Designer, Proteus Pcb Design and EasyEDA.
+- Cadence (Virtuoso, SoC Encounter, Spectre), Xilinx, LTSPICE, Xshem, Yosys, Ngspice, Sky130nm, MATLAB Simulink, Altium Designer, Proteus and EasyEDA.
 
 ### Other Miscellaneous things that i have experience with :
 - Understanding of MOS Based Circuit Design and Semiconductor Device Physics.
