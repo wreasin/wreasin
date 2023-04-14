@@ -2,18 +2,18 @@
 
 My name is __[Wahidur Rahman Easin](https://www.linkedin.com/in/wahidur-r-easin/)__, I'm a __VLSI Enthusiast__. I'm very much passionate about VLSI Design.
 
-__[Easin](https://www.linkedin.com/in/wahidur-r-easin/)__ is a Student in Electrical and Electronics Engineering with focus on _Very Large-Scale Integration (VLSI) Design, SoC Design, IC Physical Design, Industrial Internet of Things (IIoT), Embedded System, AI and Robotics_. I like to do Research. Easin prefers to work in research and development by prototyping innovative ideas for future hardware and software products. Easin has worked as Robotics & Embedded System Engineer, Data Analytics Consulting and also an SEO Expert for various companies. Easin is a Student at Bangladesh University of Business and Technology (BUBT).
+__[Easin](https://www.linkedin.com/in/wahidur-r-easin/)__ is a Student in Electrical and Electronics Engineering with focus on Very Large-Scale Integration (VLSI) Design, SoC Design, IC Physical Design, Layout Design, Industrial Internet of Things (IIoT), AI, Renewable Energy and Robotics. I like to do Research. Easin prefers to work in research and development by prototyping innovative ideas for future hardware and software products. Easin has worked as Robotics & Embedded System Engineer, Data Analytics Consulting and also an SEO Expert for various companies. Easin is a Student at Bangladesh University of Business and Technology (BUBT).
 
 ### The tools i have experience with :  
-- Cadence Virtuoso, Cadence SoC Encounter, LTSPICE, Xshem, Yosys, Ngspice, Sky130nm, Simulink, Altium Designer, Proteus Pcb Design and EasyEDA.
+- Cadence (Virtuoso, SoC Encounter, Spectre), LTSPICE, Xshem, Yosys, Ngspice, Sky130nm, MATLAB Simulink, Altium Designer, Proteus Pcb Design and EasyEDA.
 
 ### Other Miscellaneous things that i have experience with :
-- Understanding of MOS Based circuit design and semiconductor device theory.
-- Analog circuit design with experience in designing of Opamp, voltage reference, inverter and more.
+- Understanding of MOS Based circuit design and semiconductor device physics.
+- Analog & Digital circuit design with experience in designing of Full Adder, Opamp, XOR, XNOR, Inverter and more.
 - Layout Design with Cadence Virtuoso.
-- PCB Design with Altium Designer, Proteus, EasyEDA and Eagle.
-- Microcontrollers such as Atmega32, Atmega8, Atmega328, 8051, Arduino, Raspberry Pi, etc.
+- PCB Design with Altium Designer, Proteus and EasyEDA.
 - Programming in Python, Verilog, RTL, TCL, C, Matlab, PLC Programming, Html and Css.
+- Microcontrollers such as Atmega32, Atmega8, Atmega328, 8051, Arduino, Raspberry Pi, etc.
 - MS Word, PowerPoint, Excel (highly proficient), Windows, Linux, Unix and Git.
 
 On the other side, Liked to introduce myself as a problem solver and technology geek. Optimistic about new opportunities to work. I love to work independently and also with a team. I'm thirsty to learn new things.
